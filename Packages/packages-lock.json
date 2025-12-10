@@ -310,13 +310,13 @@
       "url": "https://packages.unity.com"
     },
     "im.toss.apps-in-toss-unity-sdk": {
-      "version": "https://github.com/toss/apps-in-toss-unity-sdk.git",
+      "version": "https://github.com/toss/apps-in-toss-unity-sdk.git#release/v1.5.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       },
-      "hash": "632442246e488d75a1f3272d7b17acfd356632cc"
+      "hash": "d99e80abac4e817a440ae05ca275b20363c68afe"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",

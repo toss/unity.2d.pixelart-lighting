@@ -70,3 +70,19 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Apps in Toss SDK - 민감한 인증 정보 보호
+**/AITCredentials.asset
+**/AITCredentials.asset.meta
+
+# Build outputs
+/ait-build/
+/webgl/
+
+# Unity auto-generated (regenerated on editor open)
+/[Aa]ssets/Resources/
+/[Aa]ssets/Unity.VisualScripting.Generated/
+
+# IDE settings
+.vscode/
+*.slnx
